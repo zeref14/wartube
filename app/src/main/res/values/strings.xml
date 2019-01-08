@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">finalblog</string>
+    <string name="action_logout">Logout</string>
+    <string name="title_home">Home</string>
+    <string name="title_notifications">Post</string>
+    <string name="login_butt_">Login</string>
+    <string name="login_butt_reg">Register</string>
+</resources>
